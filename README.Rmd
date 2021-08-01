@@ -1,0 +1,128 @@
+---
+output: github_document
+always_allow_html: true
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+
+library(kableExtra)
+library(icons)
+
+add_Link <- function(link, icon, font) {
+  paste0("<a href=\"", link, "\">", as.character(if (font == "ai") {academicons(icon)} else {fontawesome(icon)}), "</a>")
+}
+```
+
+# GlobaLID database
+
+Here you can find the most recent version of the GlobaLID database and the R-scripts we use to calculate any lead isotope ratios missing in the original publications and the age model parameters. What you see here is work in progress, there might still be some errors or blanks in the data. Database versions with only correct and complete data (to the best of our knowledge) are regularly archived at the [GFZ data repository](https://doi.org/will_be_provided). These are the versions that should be used.  
+
+# What is GlobaLID? 
+GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/will_be_provided). You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. The "References" page lists all references from which data are currently included in GlobaLID. There are still data missing? Consider to become a contributor and help to let GlobaLID grow! 
+
+# How to cite
+If you use the GlobaLID database, please cite it as: 
+< citation of data publication with bibtex or ris copy/paste template > 
+
+# Become a contributor! 
+GlobaLID needs your help to grow and to provide high quality datasets! The core team is permanently reviewing and adding new and old data from the literature to keep GlobaLID growing. However, we are neither proficient enough with the geology and geography of all parts of the world nor do we know all publications with lead isotope data from ores and minerals. Hence we are happy about any support from our community. Interested? Write us! 
+
+# GlobaLID core team
+## Core Team
+
+```{r echo=FALSE, results='asis'}
+
+data.frame(
+  Portrait = paste0("![](G:/Projekte/GlobaLID/GlobaLID-App/www/SKlein.png){height=96px}"), 
+  Text = paste("<b>Sabine Klein</b> (Coordinator)", 
+               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany <br> FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany", 
+               paste(
+                 add_Link("mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://orcid.org/0000-0002-3939-4428", "orcid", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Sabine-Klein-3", "researchgate", "ai"),
+                 sep = " "),
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+
+data.frame(
+  Portrait = paste0("![](G:/Projekte/GlobaLID/GlobaLID-App/www/TRose.png){height=96px}"), 
+  Text = paste("<b>Thomas Rose</b> (Programming)", 
+               "Department of Archaeology, Ben-Gurion University of the Negev, Be’er Sheva, Israel <br> Department of Antiquity, Sapienza University of Rome, Rome, Italy", 
+               paste(
+                 add_Link("mailto:thomas.rose@daad-alumni.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://orcid.org/0000-0002-8186-3566", "orcid", "ai"),
+                 add_Link("https://bgu.academia.edu/ThomasRose", "academia", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Thomas-Rose-2", "researchgate", "ai"),
+                 add_Link("https://www.linkedin.com/in/thomas-rose-4200ba175", "linkedin", "fa"),
+                 add_Link("https://github.com/archaeothommy/", "github", "fa"),
+                 add_Link("https://gitlab.com/roset", "gitlab", "fa"),
+                 sep = " "), 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+
+data.frame(
+  Portrait = paste0("![](G:/Projekte/GlobaLID/GlobaLID-App/www/KWestner.png){height=96px}"), 
+  Text = paste("<b>Katrin J. Westner</b> (Database)", 
+               "Ecole Normale Supérieure de Lyon, CNRS, Université de Lyon, Lyon, France", 
+               paste(
+                 add_Link("mailto:katrin.westner@ens-lyon.fr?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://orcid.org/0000-0001-5529-1165", "orcid", "ai"),
+                 add_Link("https://bibliotheque-diderot.academia.edu/KatrinWestner", "academia", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Katrin-Westner", "researchgate", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+
+data.frame(
+  Portrait = paste0("![](G:/Projekte/GlobaLID/GlobaLID-App/www/logo.svg){height=96px}"), 
+  Text = paste("<b>Yiu-Kang Hsu</b> (East Asia)", 
+               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
+               paste(
+                 add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+                 sep = " "), 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+```
+
+# Contributors
+
+N. N. 
+
+# Acknowledgements
+
+The initial GlobaLID database was compiled during years of own research and profited from the generous sharing of published lead isotope datasets by many colleagues. The creative and collective work of compiling the database and application was initiated when all members of the Core Team and E. Salzmann were members of the Archaeometallurgy group at the German Mining Museum (DBM). H. Zietsch (DBM) compiled the initial literature references. 
+
+The Core Team feels deeply grateful for the support of the contributors. Without their efforts, GlobaLID would grow much slower and less accurate. 
+
+We are indebted to the R Core Team for providing and maintaining [R](https://cran.r-project.org/), the authors of the fantastic packages we use, and the R community on [Stackoverflow]() and many other webpages. Last but definitely not least we are grateful to the [OpenStreetMap contributors](https://www.openstreetmap.org) from whose Nominatim database we obtain most of the the geographical meta-information. 
+
+The following R packages are used on a regular basis: 
+
+* [dplyr](https://dplyr.tidyverse.org/)
+* [readr](https://readr.tidyverse.org/)
+* [rootSolve](https://cran.r-project.org/web/packages/rootSolve/index.html)
+* [stringr](https://stringr.tidyverse.org/)
+* [tidygeocoder](https://github.com/jessecambon/tidygeocoder)
+* [tidyr](https://tidyr.tidyverse.org/)
