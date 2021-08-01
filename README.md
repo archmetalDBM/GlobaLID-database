@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# GlobaLID database
+# GlobaLID database <img src="logo.svg" align="right" width="120" />
 
 Here you can find the most recent version of the GlobaLID database and
 the R-scripts we use to calculate any lead isotope ratios missing in the
@@ -20,10 +20,7 @@ especially in archaeology. The app provides direct access to and
 convenient interaction with the [GlobaLID
 database](https://doi.org/will_be_provided). You can filter the database
 according to your research question, upload own data to compare it with
-GlobaLID, and produce and download publication ready plots. The
-“References” page lists all references from which data are currently
-included in GlobaLID. There are still data missing? Consider to become a
-contributor and help to let GlobaLID grow!
+GlobaLID, and produce and download publication ready plots.
 
 # How to cite
 
@@ -41,8 +38,6 @@ and minerals. Hence we are happy about any support from our community.
 Interested? Write us!
 
 # GlobaLID core team
-
-## Core Team
 
 -   Coordinator: Sabine Klein (Forschungsbereich Archäometallurgie,
     Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
