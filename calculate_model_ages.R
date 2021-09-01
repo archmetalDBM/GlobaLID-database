@@ -23,8 +23,8 @@
 #' @param model Character string with the abbreviation of the model to
 #'   calculate: \itemize{ \item \code{"SK75"} for Stacey and Kramers 1975 \item
 #'   \code{"CR75"} for Cumming and Richards 1975 \item \code{"AJ84"} for
-#'   Albarède and Juteau 1984 \item \code{"ADB12"} for
-#'   Albarède et al. 2012 \item \code{"all"} for all models at once.}
+#'   AlbarÃ¨de and Juteau 1984 \item \code{"ADB12"} for
+#'   AlbarÃ¨de et al. 2012 \item \code{"all"} for all models at once.}
 #'
 #' @return A data frame.
 #' @export
@@ -33,20 +33,20 @@
 #' @references
 #' Albarède, F., Desaulty, A.-M. and Blichert-Toft, J. (2012) A
 #' geological perspective on the use of Pb isotopes in Archaeometry,
-#' Archaeometry, 54(5), pp. 853–867.
+#' Archaeometry, 54(5), pp. 853‒867.
 #' \url{https://dx.doi.org/10.1111/j.1475-4754.2011.00653.x}.
 #'
 #' Albarède, F. and Juteau, M. (1984) Unscrambling the lead model ages,
-#' Geochimica et Cosmochimica Acta, 48(1), pp. 207–212.
+#' Geochimica et Cosmochimica Acta, 48(1), pp. 207‒212.
 #' \url{https://dx.doi.org/10.1016/0016-7037(84)90364-8}.
 #'
 #' Cumming, G.L. and Richards, J.R. (1975) Ore lead isotope ratios in a
 #' continuously changing earth, Earth and Planetary Science Letters, 28(2), pp.
-#' 155–171. \url{https://dx.doi.org/10.1016/0012-821X(75)90223-X}.
+#' 155‒171. \url{https://dx.doi.org/10.1016/0012-821X(75)90223-X}.
 #'
 #' Stacey, J.S. and Kramers, J.D. (1975) Approximation of terrestrial lead
 #' isotope evolution by a two-stage model, Earth and Planetary Science Letters,
-#' 26(2), pp. 207–221. \url{https://dx.doi.org/10.1016/0012-821X(75)90088-6}.
+#' 26(2), pp. 207‒221. \url{https://dx.doi.org/10.1016/0012-821X(75)90088-6}.
 #'
 
 LI_model_age <- function(ratio_206_204, ratio_207_204, ratio_208_204, model = c("SK75", "CR75", "AJ84", "ADB12", "all"))
@@ -87,7 +87,7 @@ LI_model_age <- function(ratio_206_204, ratio_207_204, ratio_208_204, model = c(
 #' The function takes it as argument only to be consistent with the input of
 #' the other age model functions. If provided, it will be ignored.
 #'
-#' The function for the age model of Albarède & Juteau is based on the
+#' The function for the age model of Albarède & Juteau 1984 is based on the
 #' MATLAB-script of F. Albarède (version 2020-11-06).
 #'
 #' @param ratio_206_204 A character vector or data frame column with the
@@ -101,23 +101,23 @@ LI_model_age <- function(ratio_206_204, ratio_207_204, ratio_208_204, model = c(
 #'
 #' @export
 #'
-#' @references 
+#' @references
 #' Albarède, F., Desaulty, A.-M. and Blichert-Toft, J. (2012) A
 #' geological perspective on the use of Pb isotopes in Archaeometry,
-#' Archaeometry, 54(5), pp. 853–867.
+#' Archaeometry, 54(5), pp. 853‒867.
 #' \url{https://dx.doi.org/10.1111/j.1475-4754.2011.00653.x}.
 #'
 #' Albarède, F. and Juteau, M. (1984) Unscrambling the lead model ages,
-#' Geochimica et Cosmochimica Acta, 48(1), pp. 207–212.
+#' Geochimica et Cosmochimica Acta, 48(1), pp. 207‒212.
 #' \url{https://dx.doi.org/10.1016/0016-7037(84)90364-8}.
 #'
 #' Cumming, G.L. and Richards, J.R. (1975) Ore lead isotope ratios in a
 #' continuously changing earth, Earth and Planetary Science Letters, 28(2), pp.
-#' 155–171. \url{https://dx.doi.org/10.1016/0012-821X(75)90223-X}.
+#' 155‒171. \url{https://dx.doi.org/10.1016/0012-821X(75)90223-X}.
 #'
 #' Stacey, J.S. and Kramers, J.D. (1975) Approximation of terrestrial lead
 #' isotope evolution by a two-stage model, Earth and Planetary Science Letters,
-#' 26(2), pp. 207–221. \url{https://dx.doi.org/10.1016/0012-821X(75)90088-6}.
+#' 26(2), pp. 207‒221. \url{https://dx.doi.org/10.1016/0012-821X(75)90088-6}.
 #'
 #' @name age_models
 #' @aliases Stacey_Kramers_1975
