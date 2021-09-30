@@ -9,8 +9,8 @@ original publications and the age model parameters. What you see here is
 work in progress, there might still be some errors or blanks in the
 data. Database versions with only correct and complete data (to the best
 of our knowledge) are regularly archived at the [GFZ data
-repository](https://doi.org/will_be_provided). These are the versions
-that should be used.
+repository](https://doi.org/10.5880/fidgeo.2021.031). These are the
+versions that should be used.
 
 # What is GlobaLID?
 
@@ -18,9 +18,9 @@ GlobaLID is a Global Lead Isotope Database and aims to facilitate the
 reconstruction of raw material provenances with lead isotopes,
 especially in archaeology. The app provides direct access to and
 convenient interaction with the [GlobaLID
-database](https://doi.org/will_be_provided). You can filter the database
-according to your research question, upload own data to compare it with
-GlobaLID, and produce and download publication ready plots.
+database](https://doi.org/10.5880/fidgeo.2021.031). You can filter the
+database according to your research question, upload own data to compare
+it with GlobaLID, and produce and download publication ready plots.
 
 # How to cite
 
