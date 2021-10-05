@@ -29,6 +29,15 @@ Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021):
 GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data Services.
 <https://doi.org/10.5880/fidgeo.2021.031>
 
+    @misc{Westner.2021,
+     author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang},
+     year = {2021},
+     title = {{GlobaLID -- Global Lead Isotope Database V. 1.0}},
+     publisher = {{GFZ Data Services}},
+     doi = {10.5880/fidgeo.2021.031}, 
+     url = {https://doi.org/10.5880/fidgeo.2021.031}
+    }
+
 # Become a contributor!
 
 GlobaLID needs your help to grow and to provide high quality datasets!

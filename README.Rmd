@@ -25,6 +25,17 @@ GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruc
 If you use the GlobaLID database, please cite it as  
 Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data Services. [https://doi.org/10.5880/fidgeo.2021.031](https://doi.org/10.5880/fidgeo.2021.031)
 
+```
+@misc{Westner.2021,
+ author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang},
+ year = {2021},
+ title = {{GlobaLID -- Global Lead Isotope Database V. 1.0}},
+ publisher = {{GFZ Data Services}},
+ doi = {10.5880/fidgeo.2021.031}, 
+ url = {https://doi.org/10.5880/fidgeo.2021.031}
+}
+```
+
 # Become a contributor! 
 GlobaLID needs your help to grow and to provide high quality datasets! The core team is permanently reviewing and adding new and old data from the literature to keep GlobaLID growing. However, we are neither proficient enough with the geology and geography of all parts of the world nor do we know all publications with lead isotope data from ores and minerals. Hence we are happy about any support from our community. Interested? Write us! 
 
