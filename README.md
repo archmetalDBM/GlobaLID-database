@@ -24,8 +24,10 @@ it with GlobaLID, and produce and download publication ready plots.
 
 # How to cite
 
-If you use the GlobaLID database, please cite it as: &lt; citation of
-data publication with bibtex or ris copy/paste template &gt;
+If you use the GlobaLID database, please cite it as: Westner, Katrin J.;
+Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021): GlobaLID – Global
+Lead Isotope Database. V. 1.0. GFZ Data Services.
+<https://doi.org/10.5880/fidgeo.2021.031>
 
 # Become a contributor!
 
