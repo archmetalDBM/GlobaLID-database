@@ -1,5 +1,11 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- badges: start -->
+
+[![License](https://img.shields.io/github/license/archmetalDBM/GlobaLID-database.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Release](https://img.shields.io/github/v/release/archmetalDBM/GlobaLID-database.svg)](https://github.com/archmetalDBM/GlobaLID-database)
+[![DOI](https://img.shields.io/badge/doi-10.5880%2Ffidgeo.2021.031-blue)](https://doi.org/10.5880/fidgeo.2021.031)
+<!-- badges: end -->
 
 # GlobaLID database <img src="logo.svg" align="right" width="120" />
 
