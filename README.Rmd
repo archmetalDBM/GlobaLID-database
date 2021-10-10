@@ -16,6 +16,13 @@ library(icons)
 
 ```
 
+<!-- badges: start -->
+[![License](https://img.shields.io/github/license/archmetalDBM/GlobaLID-database.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Release](https://img.shields.io/github/v/release/archmetalDBM/GlobaLID-database.svg)](https://github.com/archmetalDBM/GlobaLID-database)
+[![DOI](https://img.shields.io/badge/doi-10.5880%2Ffidgeo.2021.031-blue)](https://doi.org/10.5880/fidgeo.2021.031)
+<!-- badges: end -->
+
+
 # GlobaLID database <img src="logo.svg" align="right" width="120" />
 
 Here you can find the most recent version of the GlobaLID database and the R-scripts we use to calculate any lead isotope ratios missing in the original publications and the age model parameters. What you see here is work in progress, there might still be some errors or blanks in the data. Database versions with only correct and complete data (to the best of our knowledge) are regularly archived at the [GFZ data repository](https://doi.org/10.5880/fidgeo.2021.031). These are the versions that should be used.  
@@ -26,6 +33,17 @@ GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruc
 # How to cite
 If you use the GlobaLID database, please cite it as  
 Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data Services. [https://doi.org/10.5880/fidgeo.2021.031](https://doi.org/10.5880/fidgeo.2021.031)
+
+```
+@misc{Westner.2021,
+ author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang},
+ year = {2021},
+ title = {{GlobaLID -- Global Lead Isotope Database V. 1.0}},
+ publisher = {{GFZ Data Services}},
+ doi = {10.5880/fidgeo.2021.031}, 
+ url = {https://doi.org/10.5880/fidgeo.2021.031}
+}
+```
 
 # Become a contributor! 
 GlobaLID needs your help to grow and to provide high quality datasets! The core team is permanently reviewing and adding new and old data from the literature to keep GlobaLID growing. However, we are neither proficient enough with the geology and geography of all parts of the world nor do we know all publications with lead isotope data from ores and minerals. Hence we are happy about any support from our community. Interested? Write us! 
