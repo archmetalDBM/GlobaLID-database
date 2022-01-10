@@ -72,7 +72,7 @@ Interested? Write us!
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5529-1165)
     (Ecole Normale Supérieure de Lyon, CNRS, Université de Lyon, Lyon,
     France)
--   Programming: [Thomas Rose](copper-smelting.com/)
+-   Programming: [Thomas Rose](https://copper-smelting.com/)
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
     (Department of Archaeology, Ben-Gurion University of the Negev,
     Be’er Sheva, Israel; Department of Antiquity, Sapienza University of
