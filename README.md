@@ -76,8 +76,9 @@ Interested? Write us!
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
     (Department of Archaeology, Ben-Gurion University of the Negev,
     Be’er Sheva, Israel; Department of Antiquity, Sapienza University of
-    Rome, Rome, Italy; Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
-    Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+    Rome, Rome, Italy; Forschungsbereich Archäometallurgie,
+    Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+    Bochum, Bochum, Germany)
 -   East Asia: [Yiu-Kang
     Hsu](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu)
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863)
