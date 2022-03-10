@@ -56,7 +56,9 @@ ggplot() +
 
 # How to cite
 If you use the GlobaLID database, please cite it as  
-Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data Services. [https://doi.org/10.5880/fidgeo.2021.031](https://doi.org/10.5880/fidgeo.2021.031)
+
+* Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data Services. [https://doi.org/10.5880/fidgeo.2021.031](https://doi.org/10.5880/fidgeo.2021.031)
+* Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application. Archaeometry, 1– 16. [https://doi.org/10.1111/arcm.12762](https://doi.org/10.1111/arcm.12762)
 
 ```
 @misc{Westner.2021,
@@ -66,6 +68,16 @@ Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021): GlobaLID 
  publisher = {{GFZ Data Services}},
  doi = {10.5880/fidgeo.2021.031}, 
  url = {https://doi.org/10.5880/fidgeo.2021.031}
+}
+
+@article{Klein.2022,
+author = {Klein, Sabine and Rose, Thomas and Westner, Katrin J. and Hsu, Yiu-Kang},
+title = {From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application},
+journal = {Archaeometry},
+volume = {n/a},
+number = {n/a},
+pages = {},
+doi = {https://doi.org/10.1111/arcm.12762},
 }
 ```
 
