@@ -1,6 +1,6 @@
 
 cff-version: 1.2.0
-title: GlobaLID database
+title: GlobaLID – Global Lead Isotope Database
 message: 'To cite the GlobaLID database in publications use:'
 type: dataset
 authors:
@@ -23,6 +23,7 @@ license: CC-BY-4.0
 year: '2021'
 doi: https://doi.org/10.5880/fidgeo.2021.031
 url: https://globalid.dmt-lb.de/
+publisher: GFZ Data Services
 repository-code: https://github.com/archmetalDBM/GlobaLID-database
 contact:
 - name: GlobaLID Core Team
