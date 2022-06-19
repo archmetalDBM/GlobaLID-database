@@ -2,7 +2,7 @@
 cff-version: 1.2.0
 title: GlobaLID database
 message: 'To cite the GlobaLID database in publications use:'
-type: software
+type: dataset
 authors:
   - family-names: Westner
     given-names: Katrin J.
