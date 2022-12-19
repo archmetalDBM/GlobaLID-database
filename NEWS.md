@@ -3,6 +3,7 @@
 * Additional data for
   + Bosnia and Herzegovina (contributor: K. J. Westner)
   + Bulgaria (contributor: K. J. Westner)
+  + Germany (contributor: Sabine Fischer-Lechner, Thomas Rose)
   + Greece (contributor: K. J. Westner)
   + Kosovo (contributor: K. J. Westner)
   + Serbia (contributor: K. J. Westner)

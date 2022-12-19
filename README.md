@@ -35,13 +35,13 @@ locations: <img src="man/figures/README-map-1.png" width="100%" />
 
 If you use the GlobaLID database, please cite it as
 
--   Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang
-    (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data
-    Services. <https://doi.org/10.5880/fidgeo.2021.031>
--   Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From
-    OXALID to GlobaLID: Introducing a modern and FAIR lead isotope
-    database with an interactive application. Archaeometry, 1– 16.
-    <https://doi.org/10.1111/arcm.12762>
+- Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021):
+  GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data Services.
+  <https://doi.org/10.5880/fidgeo.2021.031>
+- Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
+  to GlobaLID: Introducing a modern and FAIR lead isotope database with
+  an interactive application. Archaeometry, 1– 16.
+  <https://doi.org/10.1111/arcm.12762>
 
 <!-- -->
 
@@ -76,43 +76,43 @@ Interested? Write us!
 
 # GlobaLID core team
 
--   Coordinator: [Sabine
-    Klein](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/prof-dr-sabine-klein)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3939-4428)
-    (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
-    Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany;
-    Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum,
-    Bochum, Germany; FIERCE, Frankfurt Isotope & Element Research
-    Centre, Goethe Universität, Frankfurt am Main, Germany)
--   Database: [Katrin J.
-    Westner](http://lgltpe.ens-lyon.fr/annuaire/westner-katrin)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5529-1165)
-    (Ecole Normale Supérieure de Lyon, CNRS, Université de Lyon, Lyon,
-    France)
--   Programming: [Thomas Rose](https://copper-smelting.com/)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
-    (Department of Archaeology, Ben-Gurion University of the Negev,
-    Be’er Sheva, Israel; Department of Antiquity, Sapienza University of
-    Rome, Rome, Italy; Forschungsbereich Archäometallurgie,
-    Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
-    Bochum, Bochum, Germany)
--   East Asia: [Yiu-Kang
-    Hsu](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863)
-    (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
-    Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+- Coordinator: [Sabine
+  Klein](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/prof-dr-sabine-klein)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3939-4428)
+  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany;
+  Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum,
+  Bochum, Germany; FIERCE, Frankfurt Isotope & Element Research Centre,
+  Goethe Universität, Frankfurt am Main, Germany)
+- Database: [Katrin J.
+  Westner](http://lgltpe.ens-lyon.fr/annuaire/westner-katrin)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5529-1165)
+  (Ecole Normale Supérieure de Lyon, CNRS, Université de Lyon, Lyon,
+  France)
+- Programming: [Thomas Rose](https://copper-smelting.com/)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
+  (Department of Archaeology, Ben-Gurion University of the Negev, Be’er
+  Sheva, Israel; Department of Antiquity, Sapienza University of Rome,
+  Rome, Italy; Forschungsbereich Archäometallurgie,
+  Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+  Bochum, Bochum, Germany)
+- East Asia: [Yiu-Kang
+  Hsu](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863)
+  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
 
 # Contributors
 
--   [Nima
-    Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X)
-    (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
-    Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
--   Markos Vaxevanopoulos
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3027-5622)
-    (École Normale Supérieure de Lyon, Laboratoire de Géologie de Lyon:
-    Terre, Planète, Environnement, Lyon, France)
+- [Nima
+  Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X)
+  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+- Markos Vaxevanopoulos
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3027-5622)
+  (École Normale Supérieure de Lyon, Laboratoire de Géologie de Lyon:
+  Terre, Planète, Environnement, Lyon, France)
 
 # Acknowledgements
 
@@ -138,9 +138,9 @@ database we obtain most of the the geographical meta-information.
 
 The following R packages are used on a regular basis:
 
--   [dplyr](https://dplyr.tidyverse.org/)
--   [readr](https://readr.tidyverse.org/)
--   [rootSolve](https://cran.r-project.org/web/packages/rootSolve/index.html)
--   [stringr](https://stringr.tidyverse.org/)
--   [tidygeocoder](https://github.com/jessecambon/tidygeocoder)
--   [tidyr](https://tidyr.tidyverse.org/)
+- [dplyr](https://dplyr.tidyverse.org/)
+- [readr](https://readr.tidyverse.org/)
+- [rootSolve](https://cran.r-project.org/web/packages/rootSolve/index.html)
+- [stringr](https://stringr.tidyverse.org/)
+- [tidygeocoder](https://github.com/jessecambon/tidygeocoder)
+- [tidyr](https://tidyr.tidyverse.org/)
