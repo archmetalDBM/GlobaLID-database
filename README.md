@@ -40,7 +40,7 @@ If you use the GlobaLID database, please cite it as
   <https://doi.org/10.5880/fidgeo.2021.031>
 - Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
   to GlobaLID: Introducing a modern and FAIR lead isotope database with
-  an interactive application. Archaeometry, 1– 16.
+  an interactive application. Archaeometry 64(4), 935–950.
   <https://doi.org/10.1111/arcm.12762>
 
 <!-- -->
@@ -58,9 +58,9 @@ If you use the GlobaLID database, please cite it as
     author = {Klein, Sabine and Rose, Thomas and Westner, Katrin J. and Hsu, Yiu-Kang},
     title = {From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application},
     journal = {Archaeometry},
-    volume = {n/a},
-    number = {n/a},
-    pages = {},
+    volume = {64},
+    number = {4},
+    pages = {935-950},
     doi = {https://doi.org/10.1111/arcm.12762},
     }
 
@@ -84,18 +84,19 @@ Interested? Write us!
   Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum,
   Bochum, Germany; FIERCE, Frankfurt Isotope & Element Research Centre,
   Goethe Universität, Frankfurt am Main, Germany)
+- Programming: [Thomas Rose](https://copper-smelting.com/)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
+  (Goethe-Universität Frankfurt, Institut für Geowissenschaften,
+  Frankfurt, Germany; Department of Archaeology, Ben-Gurion University
+  of the Negev, Be’er Sheva, Israel; Department of Antiquity, Sapienza
+  University of Rome, Rome, Italy; Forschungsbereich Archäometallurgie,
+  Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+  Bochum, Bochum, Germany)
 - Database: [Katrin J.
   Westner](http://lgltpe.ens-lyon.fr/annuaire/westner-katrin)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5529-1165)
-  (Ecole Normale Supérieure de Lyon, CNRS, Université de Lyon, Lyon,
-  France)
-- Programming: [Thomas Rose](https://copper-smelting.com/)
-  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
-  (Department of Archaeology, Ben-Gurion University of the Negev, Be’er
-  Sheva, Israel; Department of Antiquity, Sapienza University of Rome,
-  Rome, Italy; Forschungsbereich Archäometallurgie,
-  Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
-  Bochum, Bochum, Germany)
+  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
 - East Asia: [Yiu-Kang
   Hsu](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863)
@@ -113,6 +114,9 @@ Interested? Write us!
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3027-5622)
   (École Normale Supérieure de Lyon, Laboratoire de Géologie de Lyon:
   Terre, Planète, Environnement, Lyon, France)
+- Sabine Fischer-Lechner (Forschungsbereich Archäometallurgie,
+  Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+  Bochum, Bochum, Germany)
 
 # Acknowledgements
 
