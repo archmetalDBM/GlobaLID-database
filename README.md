@@ -27,6 +27,8 @@ convenient interaction with the [GlobaLID
 database](https://doi.org/10.5880/fidgeo.2021.031). You can filter the
 database according to your research question, upload own data to compare
 it with GlobaLID, and produce and download publication ready plots.
+Visit [our webpage](https://archmetaldbm.github.io/Globalid/) to learn
+more about the GlobaLID project and to get the latest news.
 
 The current version of the GlobaLID database includes data from these
 locations: <img src="man/figures/README-map-1.png" width="100%" />
@@ -74,9 +76,21 @@ world nor do we know all publications with lead isotope data from ores
 and minerals. Hence we are happy about any support from our community.
 Interested? Write us!
 
-# GlobaLID core team
+# Join the team!
 
-- Coordinator: [Sabine
+GlobaLID needs your help to grow and to provide high quality datasets!
+The core team is permanently reviewing and adding new and old data from
+the literature to keep GlobaLID growing. However, we are neither
+proficient enough with the geology and geography of all parts of the
+world nor do we know all publications with lead isotope data from ores
+and minerals. Hence we are happy about any support from our community.
+Interested? Write us!
+
+# Team
+
+## Core team
+
+- Coordination: [Sabine
   Klein](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/prof-dr-sabine-klein)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3939-4428)
   (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
@@ -97,19 +111,49 @@ Interested? Write us!
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5529-1165)
   (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
   Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-- East Asia: [Yiu-Kang
+- Metadata: [Yiu-Kang
   Hsu](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863)
   (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
   Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
 
-# Contributors
+## Regional editors
 
-- [Nima
+- Southeast Asia: [T. O.
+  Pryce](https://iramat.cnrs.fr/user/oliver.pryce/)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X)
+  (Centre National de la Recherche Scientifique, UMR 7065 Institut de
+  Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS
+  UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)
+- Iran: [Nima
   Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X)
   (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
   Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+- North America:
+  - [Jay Stephens](https://archaeometry.missouri.edu/staff.html)
+    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1299-3946)
+    (School of Anthropology, University of Arizona, Tucson, AZ, USA;
+    Archaeometry Laboratory, Research Reactor Center, University of
+    Missouri, Columbia, MO, USA)
+  - [Virginie
+    Renson](https://archaeometry.missouri.edu/profile(Virginie).html)
+    (Archaeometry Laboratory, Research Reactor Center, University of
+    Missouri, Columbia, MO, USA)
+  - [David
+    Killick](https://anthropology.arizona.edu/people/dave-killick)
+    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8964-750X)
+    ( School of Anthropology, University of Arizona, Tucson, AZ, USA)
+- South America: [María Florencia
+  Becerra](https://www.conicet.gov.ar/new_scp/detalle.php?id=29835)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6302-7452)
+  (Facultad de Filosofía y Letras, Universidad de Buenos Aires,
+  Instituto de Arqueología, CONICET, Buenos Aires, Argentina;
+  Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+
+## Contributors (Data)
+
 - Markos Vaxevanopoulos
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3027-5622)
   (École Normale Supérieure de Lyon, Laboratoire de Géologie de Lyon:
@@ -117,6 +161,13 @@ Interested? Write us!
 - Sabine Fischer-Lechner (Forschungsbereich Archäometallurgie,
   Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
   Bochum, Bochum, Germany)
+
+## Contributors (Programming)
+
+- Daniel Finn
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0000-0953-0006)
+  (Institute of Archaeology, The Hebrew University of Jerusalem,
+  Jerusalem, Israel)
 
 # Acknowledgements
 
