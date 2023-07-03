@@ -138,6 +138,7 @@ Interested? Write us!
     Missouri, Columbia, MO, USA)
   - [Virginie
     Renson](https://archaeometry.missouri.edu/profile(Virginie).html)
+    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5701-0985)
     (Archaeometry Laboratory, Research Reactor Center, University of
     Missouri, Columbia, MO, USA)
   - [David
