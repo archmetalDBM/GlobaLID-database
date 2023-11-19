@@ -66,6 +66,16 @@ If you use the GlobaLID database, please cite it as
     doi = {https://doi.org/10.1111/arcm.12762},
     }
 
+# Become a contributor!
+
+GlobaLID needs your help to grow and to provide high quality datasets!
+The core team is permanently reviewing and adding new and old data from
+the literature to keep GlobaLID growing. However, we are neither
+proficient enough with the geology and geography of all parts of the
+world nor do we know all publications with lead isotope data from ores
+and minerals. Hence we are happy about any support from our community.
+Interested? Write us!
+
 # Join the team!
 
 GlobaLID needs your help to grow and to provide high quality datasets!

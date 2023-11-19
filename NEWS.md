@@ -11,6 +11,7 @@
   + North Macedonia (contributor: K. J. Westner)
   + Serbia (contributor: K. J. Westner)
   + Africa (contributor: J. Stephens)
+  + Argentinia (contributor: M. F. Becerra)
 
 * The detection pattern of the function `LI_ratios_all()` was improved. 
 
