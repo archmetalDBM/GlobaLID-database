@@ -15,7 +15,7 @@ original publications and the age model parameters. What you see here is
 work in progress, there might still be some errors or blanks in the
 data. Database versions with only correct and complete data (to the best
 of our knowledge) are regularly archived at the [GFZ data
-repository](https://doi.org/10.5880/fidgeo.2021.031). These are the
+repository](https://doi.org/10.5880/fidgeo.2023.043). These are the
 versions that should be used.
 
 # What is GlobaLID?
@@ -24,7 +24,7 @@ GlobaLID is a Global Lead Isotope Database and aims to facilitate the
 reconstruction of raw material provenances with lead isotopes,
 especially in archaeology. The app provides direct access to and
 convenient interaction with the [GlobaLID
-database](https://doi.org/10.5880/fidgeo.2021.031). You can filter the
+database](https://doi.org/10.5880/fidgeo.2023.043). You can filter the
 database according to your research question, upload own data to compare
 it with GlobaLID, and produce and download publication ready plots.
 Visit [our webpage](https://archmetaldbm.github.io/Globalid/) to learn
@@ -37,9 +37,9 @@ locations: <img src="man/figures/README-map-1.png" width="100%" />
 
 If you use the GlobaLID database, please cite it as
 
-- Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021):
-  GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data Services.
-  <https://doi.org/10.5880/fidgeo.2021.031>
+- Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2023):
+  GlobaLID – Global Lead Isotope Database. V. 1.1. GFZ Data Services.
+  <https://doi.org/10.5880/fidgeo.2023.043>
 - Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
   to GlobaLID: Introducing a modern and FAIR lead isotope database with
   an interactive application. Archaeometry 64(4), 935–950.
@@ -47,9 +47,9 @@ If you use the GlobaLID database, please cite it as
 
 <!-- -->
 
-    @misc{Westner.2021,
+    @misc{Westner.2023,
      author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang},
-     year = {2021},
+     year = {2023},
      title = {{GlobaLID -- Global Lead Isotope Database V. 1.1}},
      publisher = {{GFZ Data Services}},
      doi = {10.5880/fidgeo.2021.031}, 
