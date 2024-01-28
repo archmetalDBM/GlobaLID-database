@@ -62,7 +62,7 @@ If you use the GlobaLID database, please cite it as
 
 ```
 @misc{Westner.2023,
- author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang},
+ author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang and Becerra, María Florencia and Nezafati, Nima and Renson, Virginie and Stephens, Jay},
  year = {2023},
  title = {{GlobaLID -- Global Lead Isotope Database V. 1.1}},
  publisher = {{GFZ Data Services}},
