@@ -24,7 +24,7 @@ if (!"tmap" %in% installed.packages()) {install.packages("tmap")}
 <!-- badges: start -->
 [![License](https://img.shields.io/github/license/archmetalDBM/GlobaLID-database.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Release](https://img.shields.io/github/v/release/archmetalDBM/GlobaLID-database.svg)](https://github.com/archmetalDBM/GlobaLID-database)
-[![DOI](https://img.shields.io/badge/doi-10.5880%2Ffidgeo.2021.031-blue)](https://doi.org/10.5880/fidgeo.2021.031)
+[![DOI](https://img.shields.io/badge/doi-10.5880%2Ffidgeo.2023.043-blue)](https://doi.org/10.5880/fidgeo.2023.043)
 <!-- badges: end -->
 
 
@@ -64,10 +64,10 @@ If you use the GlobaLID database, please cite it as
 @misc{Westner.2021,
  author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang},
  year = {2021},
- title = {{GlobaLID -- Global Lead Isotope Database V. 1.0}},
+ title = {{GlobaLID -- Global Lead Isotope Database V. 1.1}},
  publisher = {{GFZ Data Services}},
  doi = {10.5880/fidgeo.2021.031}, 
- url = {https://doi.org/10.5880/fidgeo.2021.031}
+ url = {https://doi.org/10.5880/fidgeo.2023.043}
 }
 
 @article{Klein.2022,
