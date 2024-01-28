@@ -37,9 +37,10 @@ locations: <img src="man/figures/README-map-1.png" width="100%" />
 
 If you use the GlobaLID database, please cite it as
 
-- Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2023):
-  GlobaLID – Global Lead Isotope Database. V. 1.1. GFZ Data Services.
-  <https://doi.org/10.5880/fidgeo.2023.043>
+- Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang;
+  Becerra, María Florencia; Nezafati, Nima; Renson, Virginie & Stephens,
+  Jay (2023): GlobaLID – Global Lead Isotope Database. V. 1.1. GFZ Data
+  Services. <https://doi.org/10.5880/fidgeo.2023.043>
 - Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
   to GlobaLID: Introducing a modern and FAIR lead isotope database with
   an interactive application. Archaeometry 64(4), 935–950.
@@ -48,7 +49,7 @@ If you use the GlobaLID database, please cite it as
 <!-- -->
 
     @misc{Westner.2023,
-     author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang},
+     author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang and Becerra, María Florencia and Nezafati, Nima and Renson, Virginie and Stephens, Jay},
      year = {2023},
      title = {{GlobaLID -- Global Lead Isotope Database V. 1.1}},
      publisher = {{GFZ Data Services}},
