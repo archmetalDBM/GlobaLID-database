@@ -165,6 +165,23 @@ Interested? Write us!
   (Institute of Archaeology, The Hebrew University of Jerusalem,
   Jerusalem, Israel)
 
+# Funding
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<img src="man/dfg_logo.gif">
+</td>
+<td halign="left">
+This work has received funding from the German Research Foundation (DFG)
+through the grants KL 1259/17-1 and WI 5923/2-1 (project number:
+524790825).
+</td>
+</tr>
+</tbody>
+</table>
+
 # Acknowledgements
 
 The initial GlobaLID database was compiled during years of own research
