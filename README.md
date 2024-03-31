@@ -107,6 +107,7 @@ Interested? Write us!
   Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
 - [Tim
   Greifelt](https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/tim-greifelt)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0007-9701-8547)
   (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
   Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
 - [Katrin J.
