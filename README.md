@@ -177,7 +177,8 @@ Interested? Write us!
     Dussubieux](https://www.fieldmuseum.org/about/staff/profile/laure-dussubieux)
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-9334-8131)
     (Field Museum, Chicago, IL, USA)
-  - [Alicia Van Ham-Meert](https://www.ulb.be/fr/alicia-van-ham-meert)
+  - [Alicia Van
+    Ham-Meert](https://crea.phisoc.ulb.be/fr/corps-scientifique/van-ham-meert-alicia-1)
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6796-3141)
     (FNRS researcher CReA-patrimoine and 4MAT, Université Libre de
     Bruxelles, Belgium)
