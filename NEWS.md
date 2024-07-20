@@ -1,8 +1,21 @@
 # Version 1.2 (in progress)
 
 * Additional data for
+  + Bulgaria (K. J. Westner)
   + Chile (M. F. Becerra)
+  + Costa Rica (K. J. Westner)
+  + Cuba (K. J. Westner)
+  + Dominican Republic (K. J. Westner)
+  + El Salvador (K. J. Westner)
   + Germany (contributor: S. Fischer-Lechner, T. Rose)
+  + Guatemala (K. J. Westner)
+  + Haiti (K. J. Westner)
+  + Honduras (K. J. Westner)
+  + Jamaica (K. J. Westner)
+  + Nicaragua (K. J. Westner)
+  + Panama (K. J. Westner)
+  + Romania (K. J. Westner)
+  + Serbia (K. J. Westner)
 
 # Version 1.1
 
@@ -17,11 +30,11 @@
   + North Macedonia (contributor: K. J. Westner)
   + Serbia (contributor: K. J. Westner)
   + Africa (contributor: J. Stephens)
-  + Argentinia (contributor: M. F. Becerra)
+  + Argentina (contributor: M. F. Becerra)
 
 * Definition of additional metadata: 
   + Mineralisation Style
-  + analytical uncertainties of lead isotope ratios
+  + Analytical uncertainties of lead isotope ratios
   + Archaeologically Relevant? (Y/N)
   + Reason_archaeologically_relevant
   + Additional references
