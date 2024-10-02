@@ -142,6 +142,10 @@ Interested? Write us!
   Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797)
   (Department of Anthropology, University of Oklahoma, Norman, OK, USA)
+- India: [Meghna
+  Desai](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/author/1059-meghna-desai.html)
+  (Science and Technology in Archaeology and Culture Research Center
+  (STARC), The Cyprus Institute, Nicosia, Cyprus)
 - Iran: [Nima
   Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X)
