@@ -190,7 +190,7 @@ Interested? Write us!
     Ham-Meert](https://crea.phisoc.ulb.be/fr/corps-scientifique/van-ham-meert-alicia-1)
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6796-3141)
     (FNRS researcher CReA-patrimoine and 4MAT, Université Libre de
-    Bruxelles, Belgium)
+    Bruxelles, Bruxelles, Belgium)
   - [Thomas R.
     Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn)
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797)
@@ -211,6 +211,9 @@ Interested? Write us!
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8604-544X)
   (Römisch-Germanische Kommission des Deutschen Archäologischen
   Instituts, Frankfurt, Germany)
+- Lead items: [Maxime L’Héritier]()
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3428-2977)
+  (University of Paris 8, Paris, France)
 - Pigments: [Alexandra
   Rodler-Rørbo](https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-4087-7160)
