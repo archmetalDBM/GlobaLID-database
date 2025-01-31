@@ -1,21 +1,25 @@
 # Version 1.2 (in progress)
 
 * Additional data for
+  + Austria (R. Elsasser)
   + Bulgaria (K. J. Westner)
   + Chile (M. F. Becerra)
   + Costa Rica (K. J. Westner)
   + Cuba (K. J. Westner)
   + Dominican Republic (K. J. Westner)
   + El Salvador (K. J. Westner)
+  + France (R. Elsasser)
   + Germany (contributor: S. Fischer-Lechner, T. Rose)
   + Guatemala (K. J. Westner)
   + Haiti (K. J. Westner)
   + Honduras (K. J. Westner)
+  + Italy (R. Elsasser)
   + Jamaica (K. J. Westner)
   + Nicaragua (K. J. Westner)
   + Panama (K. J. Westner)
   + Romania (K. J. Westner)
   + Serbia (K. J. Westner)
+  # Switzerland (R. Elsasser)
 
 # Version 1.1
 
