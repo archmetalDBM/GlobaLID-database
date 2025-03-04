@@ -13,13 +13,15 @@
   + Guatemala (K. J. Westner)
   + Haiti (K. J. Westner)
   + Honduras (K. J. Westner)
+  + Israel (D. Finn, R. Elsasser)
   + Italy (R. Elsasser)
   + Jamaica (K. J. Westner)
+  + Jordan (D. Finn, R. Elsasser)
   + Nicaragua (K. J. Westner)
   + Panama (K. J. Westner)
   + Romania (K. J. Westner)
   + Serbia (K. J. Westner)
-  # Switzerland (R. Elsasser)
+  + Switzerland (R. Elsasser)
 
 # Version 1.1
 
