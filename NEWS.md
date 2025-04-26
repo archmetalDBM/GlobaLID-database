@@ -9,7 +9,7 @@
   + Dominican Republic (K. J. Westner)
   + El Salvador (K. J. Westner)
   + France (R. Elsasser)
-  + Germany (contributor: S. Fischer-Lechner, T. Rose)
+  + Germany (S. Fischer-Lechner, T. Rose)
   + Guatemala (K. J. Westner)
   + Haiti (K. J. Westner)
   + Honduras (K. J. Westner)
@@ -20,6 +20,7 @@
   + Nicaragua (K. J. Westner)
   + Panama (K. J. Westner)
   + Romania (K. J. Westner)
+  + Russia (R. Elsasser)
   + Serbia (K. J. Westner)
   + Switzerland (R. Elsasser)
 
