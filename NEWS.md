@@ -22,6 +22,7 @@
   + Romania (K. J. Westner)
   + Russia (R. Elsasser)
   + Serbia (K. J. Westner)
+  + Spain (R.Elsasser)
   + Switzerland (R. Elsasser)
 
 # Version 1.1
