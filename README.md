@@ -32,12 +32,7 @@ Visit [our webpage](https://archmetaldbm.github.io/Globalid/) to learn
 more about the GlobaLID project and to get the latest news.
 
 The current version of the GlobaLID database includes data from these
-locations:
-
-    #> Warning: Removed 3 rows containing missing values or values outside the scale range
-    #> (`geom_point()`).
-
-<img src="man/figures/README-map-1.png" width="100%" />
+locations: <img src="man/figures/README-map-1.png" width="100%" />
 
 # How to cite
 
