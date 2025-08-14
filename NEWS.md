@@ -1,6 +1,7 @@
 # Version 1.2 (in progress)
 
 * Additional data for
+  + Argentina (contributor: M. F. Becerra)
   + Austria (R. Elsasser)
   + Bulgaria (K. J. Westner)
   + Chile (M. F. Becerra)
