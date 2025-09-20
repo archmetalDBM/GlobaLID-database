@@ -30,10 +30,10 @@ authors:
   - family-names: Stephens
     given-names: Jay
     orcid: https://orcid.org/0000-0003-1299-3946
-version: "1.1"
+version: "1.2"
 license: CC-BY-4.0
 year: '2023'
-doi: https://doi.org/10.5880/fidgeo.2023.043
+doi: https://doi.org/10.5880/fidgeo.2025.080
 url: https://globalid.dmt-lb.de/
 database-provider: 
   name: "GFZ Data Services"
@@ -68,10 +68,10 @@ references:
         email: globalid@bergbaumuseum.de
     title: GlobaLID web application
     type: software
-    version: "1.0"
+    version: "1.1"
     license: GPL-3.0-only
-    year: '2022'
+    year: '2025'
     url: https://globalid.dmt-lb.de/
     repository-code: https://github.com/archmetalDBM/GlobaLID-App
-    date-released: '2022-03-28'
+    date-released: '2025-07-28'
     scope: "Cite this software if you used the GlobaLID web application."

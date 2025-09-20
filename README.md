@@ -5,7 +5,7 @@
 
 [![License](https://img.shields.io/github/license/archmetalDBM/GlobaLID-database.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Release](https://img.shields.io/github/v/release/archmetalDBM/GlobaLID-database.svg)](https://github.com/archmetalDBM/GlobaLID-database)
-[![DOI](https://img.shields.io/badge/doi-10.5880%2Ffidgeo.2023.043-blue)](https://doi.org/10.5880/fidgeo.2023.043)
+[![DOI](https://img.shields.io/badge/doi-10.5880%2Ffidgeo.2025.080-blue)](https://doi.org/10.5880/fidgeo.2025.080)
 <!-- badges: end -->
 
 # GlobaLID database <img src="logo.svg" align="right" width="120" />
@@ -16,7 +16,7 @@ original publications and the age model parameters. What you see here is
 work in progress, there might still be some errors or blanks in the
 data. Database versions with only correct and complete data (to the best
 of our knowledge) are regularly archived at the [GFZ data
-repository](https://doi.org/10.5880/fidgeo.2023.043). These are the
+repository](https://doi.org/10.5880/fidgeo.2025.080). These are the
 versions that should be used.
 
 # What is GlobaLID?
@@ -25,7 +25,7 @@ GlobaLID is a Global Lead Isotope Database and aims to facilitate the
 reconstruction of raw material provenances with lead isotopes,
 especially in archaeology. The app provides direct access to and
 convenient interaction with the [GlobaLID
-database](https://doi.org/10.5880/fidgeo.2023.043). You can filter the
+database](https://doi.org/10.5880/fidgeo.2025.080). You can filter the
 database according to your research question, upload own data to compare
 it with GlobaLID, and produce and download publication ready plots.
 Visit [our webpage](https://archmetaldbm.github.io/Globalid/) to learn
@@ -40,8 +40,8 @@ If you use the GlobaLID database, please cite it as
 
 - Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang;
   Becerra, María Florencia; Nezafati, Nima; Renson, Virginie & Stephens,
-  Jay (2023): GlobaLID – Global Lead Isotope Database. V. 1.1. GFZ Data
-  Services. <https://doi.org/10.5880/fidgeo.2023.043>
+  Jay (2023): GlobaLID – Global Lead Isotope Database (Version 08/2025).
+  GFZ Data Services. <https://doi.org/10.5880/fidgeo.2025.080>
 - Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
   to GlobaLID: Introducing a modern and FAIR lead isotope database with
   an interactive application. Archaeometry 64(4), 935–950.
@@ -52,10 +52,9 @@ If you use the GlobaLID database, please cite it as
     @misc{Westner.2023,
      author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang and Becerra, María Florencia and Nezafati, Nima and Renson, Virginie and Stephens, Jay},
      year = {2023},
-     title = {{GlobaLID -- Global Lead Isotope Database V. 1.1}},
+     title = {{GlobaLID – Global Lead Isotope Database (Version 08/2025)}},
      publisher = {{GFZ Data Services}},
-     doi = {10.5880/fidgeo.2023.043}, 
-     url = {https://doi.org/10.5880/fidgeo.2023.043}
+     doi = {https://doi.org/10.5880/fidgeo.2025.080}
     }
 
     @article{Klein.2022,
