@@ -32,7 +32,8 @@ Visit [our webpage](https://archmetaldbm.github.io/Globalid/) to learn
 more about the GlobaLID project and to get the latest news.
 
 The current version of the GlobaLID database includes data from these
-locations: <img src="man/figures/README-map-1.png" width="100%" />
+locations:
+<img src="man/figures/README-map-1.png" alt="" width="100%" />
 
 # How to cite
 

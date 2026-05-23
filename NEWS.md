@@ -2,6 +2,9 @@
 
 * Additional data for
   + Austria (contributor: R. Geismar)
+  + Cyprus (contributor: B. Cordivari)
+  + Turkey (contributor: B. Cordivari)
+  
 
 # Version 1.2
 
