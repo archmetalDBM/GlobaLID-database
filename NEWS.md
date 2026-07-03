@@ -1,10 +1,14 @@
 # Version 1.3 (in progress)
 
 * Additional data for
-  + Austria (contributor: R. Geismar)
+  + Armenia (contributor: B. Cordivari)
+  + Austria (contributor: B. Cordivari)
+  + Azerbaijan (contributor: B. Cordivari)
   + Cyprus (contributor: B. Cordivari)
+  + Georgia (contributor: B. Cordivari)
+  + Russia (contributor: B. Cordivari)
+  + Tajikistan (contributor: B. Cordivari)
   + Turkey (contributor: B. Cordivari)
-  
 
 # Version 1.2
 
